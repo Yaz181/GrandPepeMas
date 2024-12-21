@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="GrandPepeMas - The festive crypto revolution">
+    <title>GrandPepeMas - A Festive Crypto Revolution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(180deg, #ffffff, #88c3ff);
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background: #ff4747;
+            color: white;
+            padding: 20px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.2rem;
+        }
+        .hero {
+            padding: 50px 20px;
+        }
+        .hero img {
+            max-width: 100%;
+            height: auto;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 40px 20px;
+        }
+        .feature {
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            width: 300px;
+            background: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .feature h3 {
+            margin-top: 0;
+        }
+        footer {
+            background: #333;
+            color: white;
+            padding: 20px 0;
+            font-size: 0.9rem;
+        }
+        footer a {
+            color: #88c3ff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GrandPepeMas</h1>
+        <p>The festive crypto revolution is here!</p>
+    </header>
+
+    <section class="hero">
+        <img src="https://via.placeholder.com/800x400" alt="GrandPepeMas Logo">
+        <p>Join the GrandPepeMas movement and bring cheer to your portfolio this holiday season!</p>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h3>Secure Blockchain</h3>
+            <p>Powered by state-of-the-art blockchain technology for fast and secure transactions.</p>
+        </div>
+        <div class="feature">
+            <h3>Community-Driven</h3>
+            <p>A token created by the community, for the community, with exciting festive events.</p>
+        </div>
+        <div class="feature">
+            <h3>Exclusive NFTs</h3>
+            <p>Mint your GrandPepeMas NFTs and celebrate the season with unique collectibles.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 GrandPepeMas. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+    </footer>
+</body>
+</html>
